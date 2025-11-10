@@ -42,7 +42,7 @@ The Python task demonstrates my ability to clean and analyze data programmatical
 ## Tools & Technologies Used
 
 - **Python**: Pandas, Matplotlib, Seaborn
-- **Power BI** / Excel / Tableau *(specify what you used)*
+- **Power BI** / Excel / Tableau
 - **Jupyter Notebook**
 
 
